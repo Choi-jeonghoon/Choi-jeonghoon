@@ -32,12 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4BB749.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 # 💬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongssi94@gmail.com)](mailto:jeongssi94@gmail.com)
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongssi94@gmail.com)](mailto:jeongssi94@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Gmail&logoColor=white&link=[mailto:jeongssi94@gmail.com](https://velog.io/@jeongssi94))]([mailto:jeongssi94@gmail.com](https://velog.io/@jeongssi94))
 
 
 <!--
