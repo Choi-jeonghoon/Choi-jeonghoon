@@ -3,6 +3,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flshyun955&count_bg=%23429800&title_bg=%23ACE972&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+<!--
+</div>
+<div align=center>
+고민하고 해결하는
+<br>
+<strong> 백엔드 개발자 최정훈입니다.</strong> 
+<br>
+</div>
+<br>
+-->
 ![Choi-jeonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-jeonghoon&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-jeonghoon&theme=radical)](https://github.com/Choi-jeonghoon/github-readme-stats)
 
