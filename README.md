@@ -45,7 +45,7 @@
 
 # 💬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeongssi94@gmail.com)](mailto:jeongssi94@gmail.com)
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-white?&style=flat-square&logo=velog&link=https://velog.io/@jeongssi94)](https://velog.io/@jeongssi94)
+<!-- [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-white?&style=flat-square&logo=velog&link=https://velog.io/@jeongssi94)](https://velog.io/@jeongssi94) -->
 
 <!--
 **Choi-jeonghoon/Choi-jeonghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
