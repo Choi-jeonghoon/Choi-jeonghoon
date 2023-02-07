@@ -13,12 +13,21 @@
 </div>
 <br>
 -->
-![Choi-jeonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-jeonghoon&show_icons=true&theme=radical)
+<!-- ![Choi-jeonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-jeonghoon&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-jeonghoon&theme=radical)](https://github.com/Choi-jeonghoon/github-readme-stats)
+ -->
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-jeonghoon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Choi-jeonghoon&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Choi-jeonghoon)](https://solved.ac/Choi-jeonghoon/)
 -->
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Choi-jeonghoon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 # 💪 Back-Skills
 ### Platforms & Languages
